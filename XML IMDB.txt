@@ -1,0 +1,13 @@
+<XML>
+<movie>
+<name> Star Wars: Episode VIII - The Last Jedi </name>
+<rating> 7.0 </rating>
+<release_date> 2017 </release_date>
+<synopsis> Rey develops her newly discovered abilities with the guidance of Luke Skywalker, </synopsis>
+<director> Rian Johnson </director>
+<cast_list>
+<actor> mark hamil </actor>
+<actor> carrie fischer </actor>
+</cast_list>
+</movie>
+</XML>
